@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://biofranepov1971.github.io/sitemap.xml
